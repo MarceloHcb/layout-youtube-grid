@@ -7,7 +7,7 @@
     height: 368px;
     grid-gap:5px;
     padding: 20px;
-    margin:20px auto;
+   margin:40px 40px;
    
         
     
@@ -107,7 +107,9 @@ p{
         display: flex;
         flex-direction: column;
       
-
+    }
+    .content-video p{
+        width: 400px;
     }
     .propaganda {
         
